@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587862997956",
+    "project_id": "dhanajainsangh",
+    "storage_bucket": "dhanajainsangh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587862997956:android:61f133cdc9fe304cac4291",
+        "android_client_info": {
+          "package_name": "com.dhanajainsangh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXBqI0iVwLUcUSb30iYKLcZNE37I7j6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587862997956:android:dd9044f472faa40cac4291",
+        "android_client_info": {
+          "package_name": "iconit.medexam.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXBqI0iVwLUcUSb30iYKLcZNE37I7j6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
